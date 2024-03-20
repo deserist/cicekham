@@ -13339,7 +13339,7 @@ a {
 }
 
 .jconfirm-buttons .btn-confirm {
-    background-color: #00b3c8 !important;
+    background-color: #008000 !important;
     color: #ffffff;
     -webkit-box-shadow: 0 .4rem 0 #009caf;
     -moz-box-shadow: 0 .4rem 0 #009caf;
@@ -13405,12 +13405,12 @@ a {
 
 ::-moz-selection {
     color: #fff;
-    background-color: #00b3c8
+    background-color: #008000
 }
 
 ::selection {
     color: #fff;
-    background-color: #00b3c8
+    background-color: #008000
 }
 
 .tab-contents > div:not(:first-child) {
@@ -13995,7 +13995,7 @@ body::-webkit-scrollbar-thumb:window-inactive {
 @media only screen and (max-width: 1024px) {
     .page-header .header {
         z-index: 1000;
-        background-color: #00b3c8;
+        background-color: #008000;
         padding: 0
     }
 }
@@ -14083,7 +14083,7 @@ body::-webkit-scrollbar-thumb:window-inactive {
 
 @media only screen and (max-width: 1024px) {
     .page-header .header .search-area .input-icon {
-        color: #00b3c8;
+        color: #008000;
         position: absolute;
         left: 0;
         top: 0;
@@ -14281,7 +14281,7 @@ body::-webkit-scrollbar-thumb:window-inactive {
 }
 
 .page-header .header .menu > ul > li .dropdown-menu li a:hover {
-    color: #00b3c8;
+    color: #008000;
     text-decoration: underline !important
 }
 
@@ -14489,7 +14489,7 @@ body::-webkit-scrollbar-thumb:window-inactive {
     margin-top: -5px;
     z-index: 105;
     min-width: 420px;
-    border: solid 1px #00b3c8;
+    border: solid 1px #008000;
     -webkit-box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
     -moz-box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
     box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
@@ -14511,13 +14511,13 @@ body::-webkit-scrollbar-thumb:window-inactive {
 .page-header .header-basket .content {
     padding: 0 3rem;
     background-color: #fff;
-    border: solid 1px #00b3c8
+    border: solid 1px #008000
 }
 
 .page-header .header-basket .content .title {
     padding-bottom: 2rem;
     padding-top: 3rem;
-    color: #00b3c8;
+    color: #008000;
     font-size: 1.8rem;
     border-bottom: solid 3px #d4d4d4
 }
@@ -14766,7 +14766,7 @@ body::-webkit-scrollbar-thumb:window-inactive {
     position: relative;
     height: 60px;
     padding: 7px 0 7px 15px;
-    background-color: #00b3c8;
+    background-color: #008000;
     border-top-right-radius: 10px
 }
 
@@ -14828,7 +14828,7 @@ body::-webkit-scrollbar-thumb:window-inactive {
 }
 
 .fixed-navigation .account-links a {
-    color: #00b3c8;
+    color: #008000;
     font-size: 14px;
     font-weight: 700;
     line-height: 40px;
@@ -15571,7 +15571,7 @@ body::-webkit-scrollbar-thumb:window-inactive {
 
 .page-footer .columns .item .hero {
     margin-bottom: 2rem;
-    color: #00b3c8;
+    color: #008000;
     font-size: 1.4rem;
     line-height: 1.6em;
     font-weight: 700
@@ -15626,7 +15626,7 @@ body::-webkit-scrollbar-thumb:window-inactive {
     position: fixed;
     bottom: 0;
     left: 0;
-    background-color: #00b3c8;
+    background-color: #008000;
     width: 100%;
     z-index: 900
 }
@@ -15695,7 +15695,7 @@ body::-webkit-scrollbar-thumb:window-inactive {
 .page-footer .footer-bottom .item .title {
     line-height: 4.1rem;
     display: inline-block;
-    color: #00b3c8;
+    color: #008000;
     font-size: 1.4rem;
     font-weight: 700
 }
@@ -15729,7 +15729,7 @@ body::-webkit-scrollbar-thumb:window-inactive {
     font-size: 2.5rem;
     display: inline-block;
     color: white;
-    background-color: #00b3c8;
+    background-color: #008000;
     border-radius: 100%;
     width: 3.8rem;
     height: 3.8rem;
@@ -16388,7 +16388,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 }
 
 .button.green {
-    background: #00b3c8;
+    background: #008000;
     color: #ffffff;
     -webkit-box-shadow: 0 .4rem 0 #009caf;
     -moz-box-shadow: 0 .4rem 0 #009caf;
@@ -16589,7 +16589,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 }
 
 .green {
-    color: #00b3c8
+    color: #008000
 }
 
 .green-dark {
@@ -16641,7 +16641,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 }
 
 .bg-green {
-    background-color: #00b3c8
+    background-color: #008000
 }
 
 .bg-green-dark {
@@ -16913,7 +16913,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 }
 
 .search-autocomplete .content .see-all a {
-    color: #00b3c8;
+    color: #008000;
     font-size: 18px;
     font-weight: 700
 }
@@ -17753,7 +17753,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
     padding: 0 1.5rem;
     margin-top: 1.5rem;
     display: inline-block;
-    background-color: #00b3c8;
+    background-color: #008000;
     text-transform: lowercase;
     font-family: 'Panton', sans-serif
 }
@@ -17962,7 +17962,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
     height: 3.5rem;
     font-weight: 700;
     text-transform: lowercase;
-    background-color: #00b3c8;
+    background-color: #008000;
     border-radius: 8px;
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
@@ -18027,7 +18027,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
     margin-top: 1.5rem;
     font-weight: normal;
     display: inline-block;
-    background-color: #00b3c8;
+    background-color: #008000;
     text-transform: lowercase;
     font-family: 'Panton', sans-serif
 }
@@ -18303,7 +18303,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
     font-weight: 700;
     line-height: 1.6em;
     font-family: 'Trade Gothic Bold';
-    background-color: #00b3c8;
+    background-color: #008000;
     -webkit-transition: all .3s cubic-bezier(.445, .05, .55, .95);
     -moz-transition: all .3s cubic-bezier(.445, .05, .55, .95);
     -ms-transition: all .3s cubic-bezier(.445, .05, .55, .95);
@@ -18704,7 +18704,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 }
 
 .page-homepage .opportunity-area .item .badge--white {
-    color: #00b3c8;
+    color: #008000;
     background-color: #fff
 }
 
@@ -18837,7 +18837,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
     font-weight: 700;
     line-height: 1.6em;
     font-family: 'Trade Gothic Bold';
-    background-color: #00b3c8;
+    background-color: #008000;
     -webkit-transition: all .3s cubic-bezier(.445, .05, .55, .95);
     -moz-transition: all .3s cubic-bezier(.445, .05, .55, .95);
     -ms-transition: all .3s cubic-bezier(.445, .05, .55, .95);
@@ -19094,7 +19094,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
     font-size: 18px;
     line-height: 26px;
     margin-top: 20px;
-    background-color: #00b3c8;
+    background-color: #008000;
     text-align: center;
     padding: 10px;
     color: #ffffff
@@ -19971,7 +19971,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 
 .page-auth .forget-password-success-button {
     background: none;
-    color: #00B3C8;
+    color: #008000;
     font-size: 17px
 }
 
@@ -19994,7 +19994,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 .page-auth .auth__form--forget button, .page-auth .auth__form__submit {
     height: auto !important;
     width: 100%;
-    background-color: #00b3c8 !important;
+    background-color: #008000 !important;
     margin-top: 10px
 }
 
@@ -20071,7 +20071,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 .page-auth .auth form .redirect-captcha a {
     text-decoration: underline;
     font-weight: bold;
-    color: #00b3c8
+    color: #008000
 }
 
 .page-auth .auth.sms-verification-register-form form .field input, .page-auth .auth.sms-verification-second-form form .field input {
@@ -20217,7 +20217,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 
 .page-auth .auth form button {
     width: 100%;
-    background-color: #00b3c8;
+    background-color: #008000;
     font-weight: bold;
     letter-spacing: -0.36px
 }
@@ -20283,7 +20283,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 .page-auth .auth .checklist__text .href-item {
     text-decoration: underline;
     font-weight: bold;
-    color: #00b3c8
+    color: #008000
 }
 
 .page-auth .auth .checklist {
@@ -20331,13 +20331,13 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 .page-auth .auth .checklist label[for=agreement] .href-item {
     text-decoration: underline;
     font-weight: bold;
-    color: #00b3c8
+    color: #008000
 }
 
 .page-auth .auth .checkbox .href-item {
     text-decoration: underline;
     font-weight: bold;
-    color: #00b3c8
+    color: #008000
 }
 
 .page-auth .auth-form-bottom .text {
@@ -20398,7 +20398,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 .password-reset .button {
     height: auto !important;
     width: 100%;
-    background-color: #00b3c8 !important;
+    background-color: #008000 !important;
     margin-top: 10px
 }
 
@@ -20443,7 +20443,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 .page-login form .redirect-register a, .page-login form .redirect-login a, .page-login form .block-email-info a {
     text-decoration: underline;
     font-weight: bold;
-    color: #00b3c8
+    color: #008000
 }
 
 .page-login form input[name="phone"]::placeholder {
@@ -20474,7 +20474,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 .page-mail-verification form .redirect-call-center a {
     text-decoration: underline;
     font-weight: bold;
-    color: #00b3c8
+    color: #008000
 }
 
 .page-login .login-form .login-title, .page-login .login-form .login-desc {
@@ -20854,7 +20854,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
     text-align: center;
     line-height: 32px;
     font-family: 'Trade Gothic Bold';
-    background-color: #00b3c8
+    background-color: #008000
 }
 
 .page-basket .summary .coupon button:disabled {
@@ -21315,7 +21315,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 }
 
 .product-card .product-actions .favs a {
-    color: #00b3c8;
+    color: #008000;
     font-size: 3rem
 }
 
@@ -21486,7 +21486,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
     line-height: 2.7em;
     text-align: center;
     height: 3.9rem;
-    background-color: #00b3c8;
+    background-color: #008000;
     border-bottom: .4rem solid #1e8d9a;
     overflow: hidden;
     -webkit-border-radius: .8rem 0 0 .8rem;
@@ -21530,7 +21530,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
     width: 100%;
     text-align: center;
     height: 3.5rem;
-    background-color: #00b3c8;
+    background-color: #008000;
     -webkit-transition: all .3s linear;
     -moz-transition: all .3s linear;
     -ms-transition: all .3s linear;
@@ -21739,14 +21739,14 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 }
 
 .product-badge.green {
-    background: #00b3c8;
+    background: #008000;
     color: #ffffff
 }
 
 .product-badge.green.light {
     background: #ffffff;
-    color: #00b3c8;
-    border-color: #00b3c8
+    color: #008000;
+    border-color: #008000
 }
 
 .product-badge.yellow {
@@ -21767,7 +21767,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 }
 
 .product-badge.light span:first-child {
-    color: #00b3c8
+    color: #008000
 }
 
 .product-badge.light span:last-child {
@@ -21949,7 +21949,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 }
 
 .list-filters .filter-name {
-    color: #00b3c8;
+    color: #008000;
     font-size: 1.6rem;
     font-weight: 700;
     padding: 1.5rem 0 .75rem;
@@ -22151,7 +22151,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background-color: #00b3c8;
+    background-color: #008000;
     color: #fff !important;
     height: 60px;
     font-size: 18px;
@@ -22187,7 +22187,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    background-color: #00b3c8;
+    background-color: #008000;
     color: #fff !important;
     height: 60px;
     font-size: 18px;
@@ -22468,7 +22468,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 .banner-popup-button {
     display: block;
     padding: 0 10px;
-    background-color: #00b3c8;
+    background-color: #008000;
     color: #000000 !important;
     font-size: 14px;
     font-weight: 700;
@@ -22582,7 +22582,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 
 .banner-popup .popup-campaign-text {
     padding: 25px 60px;
-    color: #00b3c8;
+    color: #008000;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.4
@@ -22638,7 +22638,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
     text-align: center;
     font-size: 21px;
     font-weight: 700;
-    background-color: #00b3c8;
+    background-color: #008000;
     color: #ffffff
 }
 
@@ -22657,7 +22657,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
     justify-content: center;
     align-items: center;
     color: #ffffff;
-    background: #00b3c8;
+    background: #008000;
     margin-top: 4.5rem;
     height: 3.9rem;
     border-bottom: .4rem solid #1e8d9a;
@@ -22761,7 +22761,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 }
 
 .map-popup_mid::-webkit-scrollbar-track {
-    box-shadow: inset 0 0 5px #00b3c8;
+    box-shadow: inset 0 0 5px #008000;
     border-radius: 5px
 }
 
@@ -22771,7 +22771,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 }
 
 .map-popup_mid::-webkit-scrollbar-thumb:hover {
-    background: #00b3c8
+    background: #008000
 }
 
 .map-popup_lists-item {
@@ -23822,7 +23822,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 }
 
 .product-buy-info .find-store {
-    color: #00b3c8;
+    color: #008000;
     cursor: pointer !important;
     font-size: 1.8rem;
     font-weight: 700;
@@ -23900,7 +23900,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 }
 
 .product-buy-info .favourite-button a {
-    color: #00b3c8
+    color: #008000
 }
 
 .product-buy-info .favourite-button .active i::before {
@@ -24176,7 +24176,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 }
 
 .installment-table table tr:nth-child(2) td {
-    color: #00b3c8;
+    color: #008000;
     font-weight: 700
 }
 
@@ -24484,7 +24484,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
     line-height: 2.4em;
     text-align: center;
     height: 3.5rem;
-    background-color: #00b3c8;
+    background-color: #008000;
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
     border-radius: 8px;
@@ -24635,7 +24635,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 
 .bundle-error-modal__cancel-button {
     font-size: 18px;
-    color: #00b3c8;
+    color: #008000;
     line-height: 30px;
     display: block;
     margin: 0 auto
@@ -24657,7 +24657,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
     font-weight: 700;
     font-size: 1.8rem;
     line-height: 6rem;
-    background-color: #00b3c8;
+    background-color: #008000;
     border-radius: 0 0 10px 10px
 }
 
@@ -25443,7 +25443,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
     width: 27rem;
     height: 3rem;
     margin-bottom: 2rem;
-    color: #00b3c8;
+    color: #008000;
     font-size: 1.6rem;
     text-align: center;
     line-height: 3rem;
@@ -26602,7 +26602,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 
 .page-checkout .customcheckbox .styled-checkbox:checked + label:before {
     background: #fff;
-    border: 3px solid #00b3c8;
+    border: 3px solid #008000;
     border-radius: 2px
 }
 
@@ -26646,7 +26646,7 @@ input[type="email"]:focus, input[type="password"]:focus, textarea:focus {
 }
 
 .page-checkout .card-check.active .radio:before {
-    background-color: #00b3c8
+    background-color: #008000
 }
 
 .page-checkout .card-check.is-disabled {
@@ -26800,7 +26800,7 @@ body.payment .back-to-top, body.address .back-to-top {
 .page-checkout-header {
     padding-top: 1.2rem;
     padding-bottom: 1.2rem;
-    background-color: #00b3c8
+    background-color: #008000
 }
 
 .page-checkout-header .logo {
@@ -27827,7 +27827,7 @@ body.payment .back-to-top, body.address .back-to-top {
 }
 
 .checkout-identity-modal-information-text a {
-    color: #00b3c8;
+    color: #008000;
     text-decoration: underline
 }
 
@@ -27980,7 +27980,7 @@ body.payment .back-to-top, body.address .back-to-top {
 
 .image-generator .controls .btn-get-map {
     color: #fff;
-    background-color: #00b3c8
+    background-color: #008000
 }
 
 .image-generator .output {
@@ -28055,7 +28055,7 @@ body.payment .back-to-top, body.address .back-to-top {
 }
 
 .brochure-tabs .nav li .title span span {
-    color: #00b3c8
+    color: #008000
 }
 
 .brochure-tabs .nav li .dates {
@@ -28502,7 +28502,7 @@ body.payment .back-to-top, body.address .back-to-top {
 }
 
 .banner-item.type-2 .banner-title span:last-child {
-    color: #00b3c8
+    color: #008000
 }
 
 .banner-item.type-3 .banner-title {
@@ -28775,7 +28775,7 @@ body.payment .back-to-top, body.address .back-to-top {
     border-bottom: 1px solid #ddd;
     padding: 10px;
     font-size: 17px !important;
-    color: #00b3c8;
+    color: #008000;
     margin-bottom: 10px;
     font-weight: bold
 }
@@ -29329,7 +29329,7 @@ body.payment .back-to-top, body.address .back-to-top {
 
 .contact-us-homepage .contact-tabs .tab-contents .content .panel .regional-directorates .info .contact-info p strong {
     font-weight: 700;
-    color: #00b3c8
+    color: #008000
 }
 
 .contact-us-homepage .contact-tabs .tab-contents .content .panel .regional-directorates .info .call-center .title {
@@ -29433,7 +29433,7 @@ body.payment .back-to-top, body.address .back-to-top {
     position: absolute;
     bottom: 3rem;
     font-weight: 700;
-    color: #00b3c8
+    color: #008000
 }
 
 .contact-us-homepage .panel .hero-text {
@@ -29461,7 +29461,7 @@ body.payment .back-to-top, body.address .back-to-top {
 }
 
 .contact-us-homepage .hq strong {
-    color: #00b3c8;
+    color: #008000;
     font-weight: 700
 }
 
@@ -29536,7 +29536,7 @@ body.payment .back-to-top, body.address .back-to-top {
 
 .regional-directorates .panel .info .contact-info p strong {
     font-weight: 700;
-    color: #00b3c8
+    color: #008000
 }
 
 .regional-directorates .panel .info .call-center .title {
@@ -29591,7 +29591,7 @@ body.payment .back-to-top, body.address .back-to-top {
 }
 
 .brochures-list .title span span {
-    color: #00b3c8
+    color: #008000
 }
 
 .brochures-list .dates {
@@ -30569,7 +30569,7 @@ body.payment .back-to-top, body.address .back-to-top {
     }
 
     .page-footer .links li a {
-        color: #00b3c8;
+        color: #008000;
         font-size: 18px;
         line-height: 34px;
         font-weight: 700
@@ -30603,7 +30603,7 @@ body.payment .back-to-top, body.address .back-to-top {
 
     .page-footer .brochures .title {
         margin-bottom: 25px;
-        color: #00b3c8;
+        color: #008000;
         font-size: 18px;
         line-height: 34px;
         font-weight: 700
@@ -30664,7 +30664,7 @@ body.payment .back-to-top, body.address .back-to-top {
 
     .page-footer .follow .title {
         margin-bottom: 25px;
-        color: #00b3c8;
+        color: #008000;
         font-size: 18px;
         line-height: 34px;
         font-weight: 700
@@ -31913,7 +31913,7 @@ body.payment .back-to-top, body.address .back-to-top {
     .page-auth .auth .checklist .checkbox a {
         text-decoration: underline;
         font-weight: bold;
-        color: #00b3c8
+        color: #008000
     }
 
     .page-auth .auth .checklist .checkbox input[type=checkbox] + label:before {
@@ -32902,7 +32902,7 @@ body.payment .back-to-top, body.address .back-to-top {
     }
 
     .page-product .favourite-button a {
-        color: #00b3c8;
+        color: #008000;
         padding: 1rem
     }
 
@@ -33894,7 +33894,7 @@ body.payment .back-to-top, body.address .back-to-top {
     }
 
     .page-checkout .button.green {
-        background: #00b3c8;
+        background: #008000;
         color: #ffffff;
         -webkit-box-shadow: 0 .4rem 0 #009caf;
         -moz-box-shadow: 0 .4rem 0 #009caf;
@@ -34011,8 +34011,8 @@ body.payment .back-to-top, body.address .back-to-top {
     .page-checkout .checkout-delivery .addresses .list li.half {
         margin-bottom: 0;
         width: 100%;
-        -webkit-box-shadow: 0 2px 3px rgba(151, 151, 151, 0.21), inset 0 0 0 3px #00b3c8;
-        box-shadow: 0 2px 3px rgba(151, 151, 151, 0.21), inset 0 0 0 3px #00b3c8
+        -webkit-box-shadow: 0 2px 3px rgba(151, 151, 151, 0.21), inset 0 0 0 3px #008000;
+        box-shadow: 0 2px 3px rgba(151, 151, 151, 0.21), inset 0 0 0 3px #008000
     }
 
     .page-checkout .checkout-delivery .addresses .list li .new-address {
@@ -34089,7 +34089,7 @@ body.payment .back-to-top, body.address .back-to-top {
     }
 
     .page-checkout .checkout-delivery .cargo .radio::before {
-        background-color: #00b3c8
+        background-color: #008000
     }
 
     .page-checkout .checkout-delivery .cargo-list .price {
@@ -34411,7 +34411,7 @@ body.payment .back-to-top, body.address .back-to-top {
 
     .contact-info p strong {
         font-weight: 700;
-        color: #00b3c8
+        color: #008000
     }
 
     .regional-directorates .panel .info .contact-info p {
@@ -35750,7 +35750,7 @@ body.payment .back-to-top, body.address .back-to-top {
     height: 4.4rem;
     font-weight: 700;
     text-transform: capitalize;
-    background-color: #00b3c8;
+    background-color: #008000;
     border-radius: 8px;
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
@@ -36108,7 +36108,7 @@ body.payment .back-to-top, body.address .back-to-top {
 }
 
 .campaign-slider .information .button {
-    background-color: #00b3c8;
+    background-color: #008000;
     border-radius: 0;
     bottom: 0;
     color: #ffffff;
@@ -36407,7 +36407,7 @@ body.payment .back-to-top, body.address .back-to-top {
 .recommended-items .icon-chevron_left:before {
     content: "\2190";
     opacity: 1;
-    color: #00b3c8;
+    color: #008000;
     font-size: 40px;
     font-family: 'slick'
 }
@@ -36415,7 +36415,7 @@ body.payment .back-to-top, body.address .back-to-top {
 .recommended-items .icon-chevron_right:before {
     content: "\2192";
     opacity: 1;
-    color: #00b3c8;
+    color: #008000;
     font-size: 40px;
     font-family: 'slick'
 }
@@ -36442,7 +36442,7 @@ body.payment .back-to-top, body.address .back-to-top {
     float: left;
     width: 100%;
     font-size: 35px;
-    color: #00b3c8;
+    color: #008000;
     margin-bottom: 10px;
     padding-left: 10px;
     line-height: 1.5
@@ -36950,7 +36950,7 @@ body.payment .back-to-top, body.address .back-to-top {
 }
 
 .phone-number-verification-content a {
-    color: #00b3c8;
+    color: #008000;
     font-weight: bold;
     text-decoration: underline
 }
@@ -37048,7 +37048,7 @@ body.payment .back-to-top, body.address .back-to-top {
     display: none;
     position: fixed;
     bottom: 0;
-    background-color: #00b3c8;
+    background-color: #008000;
     width: 100%;
     -webkit-animation-name: cm-slideIn;
     -webkit-animation-duration: .4s;
@@ -37209,7 +37209,7 @@ body.payment .back-to-top, body.address .back-to-top {
 }
 
 #cs-seal-popup .cs-popup-content .cs-popup-content-bottom button {
-    background-color: #00b3c8;
+    background-color: #008000;
     border: none;
     border-radius: 5px;
     height: 35px;
@@ -37396,7 +37396,7 @@ body.payment .back-to-top, body.address .back-to-top {
 #cs-seal-popup .cs-popup-content .cs-popup-content-tabs #tab-1:checked ~ .cs-popup-content-tabs-flex-tabs #tab-1-label {
     background-color: #fff;
     cursor: default;
-    border-left-color: #00b3c8
+    border-left-color: #008000
 }
 
 #cs-seal-popup .cs-popup-content .cs-popup-content-tabs #tab-1:checked ~ .cs-popup-content-tabs-flex-tabs #tab-1-panel {
@@ -37407,7 +37407,7 @@ body.payment .back-to-top, body.address .back-to-top {
 #cs-seal-popup .cs-popup-content .cs-popup-content-tabs #tab-2:checked ~ .cs-popup-content-tabs-flex-tabs #tab-2-label {
     background-color: #fff;
     cursor: default;
-    border-left-color: #00b3c8
+    border-left-color: #008000
 }
 
 #cs-seal-popup .cs-popup-content .cs-popup-content-tabs #tab-2:checked ~ .cs-popup-content-tabs-flex-tabs #tab-2-panel {
@@ -37418,7 +37418,7 @@ body.payment .back-to-top, body.address .back-to-top {
 #cs-seal-popup .cs-popup-content .cs-popup-content-tabs #tab-3:checked ~ .cs-popup-content-tabs-flex-tabs #tab-3-label {
     background-color: #fff;
     cursor: default;
-    border-left-color: #00b3c8
+    border-left-color: #008000
 }
 
 #cs-seal-popup .cs-popup-content .cs-popup-content-tabs #tab-3:checked ~ .cs-popup-content-tabs-flex-tabs #tab-3-panel {
@@ -37429,7 +37429,7 @@ body.payment .back-to-top, body.address .back-to-top {
 #cs-seal-popup .cs-popup-content .cs-popup-content-tabs #tab-4:checked ~ .cs-popup-content-tabs-flex-tabs #tab-4-label {
     background-color: #fff;
     cursor: default;
-    border-left-color: #00b3c8
+    border-left-color: #008000
 }
 
 #cs-seal-popup .cs-popup-content .cs-popup-content-tabs #tab-4:checked ~ .cs-popup-content-tabs-flex-tabs #tab-4-panel {
@@ -37440,7 +37440,7 @@ body.payment .back-to-top, body.address .back-to-top {
 #cs-seal-popup .cs-popup-content .cs-popup-content-tabs #tab-5:checked ~ .cs-popup-content-tabs-flex-tabs #tab-5-label {
     background-color: #fff;
     cursor: default;
-    border-left-color: #00b3c8
+    border-left-color: #008000
 }
 
 #cs-seal-popup .cs-popup-content .cs-popup-content-tabs #tab-5:checked ~ .cs-popup-content-tabs-flex-tabs #tab-5-panel {
